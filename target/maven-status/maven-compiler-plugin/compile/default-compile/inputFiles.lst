@@ -1,0 +1,16 @@
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/services/exceptions/UserAlreadyExistsException.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/model/CurrentUser.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/model/dao/UserRepository.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/model/mappers/UserMapper.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/services/UserService.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/services/impl/UserServiceImpl.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/services/impl/CurrentUserDetailsServiceImpl.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/dto/CreateUserDTO.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/controllers/CurrentUserControllerAdvice.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/RecruitmentTaskApplication.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/services/support/GlobalExceptionHandler.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/controllers/UserController.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/controllers/LoginController.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/dto/ModifyUserDTO.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/config/SecurityConfig.java
+/Users/aniapietras/Documents/wlecomer/spring-boot-welcomer/recruitment-task/src/main/java/com/apietras/model/User.java
